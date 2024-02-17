@@ -1,0 +1,90 @@
+body {
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F5F9E9;
+    overflow: hidden;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.container{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.container input{
+    width: 20rem;
+    height: 2rem;
+    margin-top: 1em;
+    padding: 0.1em 0.20em;
+    border-radius: 0.3em;
+    text-align: start;
+    background-color: #F5F9E9;
+    color: #36382E;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1em;
+}
+
+.container button{
+    padding: 0.5em;
+    margin: 0.9rem 0 0 0.5rem;
+    border-radius: 0.3rem;
+    font-size: 1em;
+    background-color: #5BC3EB;
+    border-color: #5BC3EB;
+    font-weight: bold;
+    font-family: "Ubuntu", sans-serif;
+    cursor: pointer;
+}
+
+.todos-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.todos-container div{
+    display: flex;
+    background-color: #515751;
+    border-radius: 0.5rem;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 0.2rem 1rem;
+    margin-bottom: 1rem;
+    min-width: 190px;
+}
+
+.todo h4{
+    font-size: 1.5rem;
+    font-family: "Ubuntu", sans-serif;
+    color: #fff;
+    margin-right: 0.5rem;
+}
+
+.todo button{
+    border-radius: 0.3rem;
+    height: 2rem;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.done-btn{
+    background-color: #18F2B2;
+    border-color: #18F2B2;
+    font-weight: bold;
+    color: #000;
+    cursor: pointer;
+    margin-right: 0.5rem;
+}
+
+/*
+* #353831 - black
+*
+* */
+
+
