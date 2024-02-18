@@ -2,8 +2,7 @@
 
 https://github.com/tarun-bhandari/debugdeployment-todo-app/assets/158803708/da6f220f-eb7e-406a-a512-65edc63666a0
 
-![Home](./assets/home.png)
-
+  
 Hello, I am **Tarun Bhandari** and this is my internship project at **Debug Deployment Technologies**  
 This is project no 1: Todo app
 
