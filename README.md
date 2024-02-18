@@ -8,11 +8,11 @@ This is project no 1: Todo app
 
 ### Tech stack and Tools
 
-These are the technologies which i have used  
+These are the technologies and tools which i have used  
 
 - **HTML**
 - **CSS** 
 - **Javascript** 
-- **[colors](https://coolors.co/)**
+- **[colors](https://coolors.co/)** : To generate the colors
 
 
