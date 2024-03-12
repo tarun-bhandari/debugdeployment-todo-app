@@ -5,7 +5,7 @@ https://github.com/tarun-bhandari/debugdeployment-todo-app/assets/158803708/da6f
   
 Hello, myself **Tarun Bhandari** and this is my internship project at **Debug Deployment Technologies**  
 
-This is project no 1: Todo app
+This is project no 1: Todo app  
 Project no 2: [portfolio](https://github.com/tarun-bhandari/debugdeployment_portfolio_site)
 
 ### Tech stack and Tools
